@@ -1,0 +1,2 @@
+# Игнорировать node_modules во всех папках
+node_modules/
